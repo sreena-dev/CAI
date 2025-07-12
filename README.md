@@ -4,5 +4,6 @@
 ## TEXT EXTRACTION WORKFLOW
 ![6](https://github.com/user-attachments/assets/22c46086-039a-4ca8-a55b-68def737bb41)
 
+## LEARNING OUTCOME
 https://github.com/user-attachments/assets/6cbfdae9-a409-40ae-a102-8095798ec23b
 
